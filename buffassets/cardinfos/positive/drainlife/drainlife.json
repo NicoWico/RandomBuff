@@ -13,6 +13,6 @@
   },
   "English": {
     "BuffName": "Drain Life",
-    "Description": "Whenever you deal damage to other creatures, restore food points based on the damage value."
+    "Description": "Whenever you deal damage to other creatures, restore half a food point per stack of this buff."
   }
 }
