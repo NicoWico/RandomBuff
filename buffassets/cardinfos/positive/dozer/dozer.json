@@ -12,6 +12,6 @@
     },
     "English" : {
         "BuffName" : "Dozer",
-        "Description" : "Your slugcat can push other creatures by running into them, the higher your speed the more force."
+        "Description" : "Your slugcat can push other creatures by running into them, the higher your speed the more force you push with."
     }
 }
